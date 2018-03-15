@@ -1,0 +1,38 @@
+@CHARSET "ISO-8859-1";
+body {
+	background-image: url("http://www.zingerbug.com/Backgrounds/background_images/light_gray_bricks_pattern.gif");
+	background-repeat: repeat;
+	padding-top: 70px;
+}
+
+.div1 {
+	color: gray;
+}
+
+.pager {
+	border: hidden;
+}
+
+.row {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.space {
+	height:50px;
+	position: fixed;
+}
+.container {
+	size: 90%;
+}
+
+.box {
+	size: 70%;
+}
+
+.jumbotron.div1 {
+	border-bottom: thick;
+	background-color: wheat;
+}
+
+
